@@ -1,0 +1,45 @@
+/* Navbar container */
+nav {
+    background-color: #fdf3e7; /* Background color */
+    border-bottom: 1px solid #e2e8f0; /* Bottom border */
+  }
+  
+  /* Logo and Brand Text */
+  nav .logo {
+    color: #2d3748; /* Text color for logo */
+  }
+  
+  /* User Menu Icon */
+  nav #account {
+    color: #2d3748; /* Icon color for user menu */
+  }
+  
+  /* Cart Menu Icon */
+  nav #cart-menu-button {
+    color: #2d3748; /* Icon color for cart menu */
+  }
+  
+  /* Dropdown Menu */
+  nav .dropdown-menu {
+    background-color: #fdf3e7; /* Background color for dropdown menu */
+    border: 1px solid #e2e8f0; /* Border color for dropdown menu */
+    color: #2d3748; /* Text color for dropdown menu */
+  }
+  
+  /* Dropdown Menu Items */
+  nav .dropdown-menu li a {
+    color: #2d3748; /* Text color for dropdown menu items */
+  }
+  
+  /* Hover Effect on Dropdown Menu Items */
+  nav .dropdown-menu li a:hover {
+    background-color: #ffeccf; /* Background color on hover for dropdown menu items */
+    color: #2d3748; /* Text color on hover for dropdown menu items */
+  }
+  
+  /* Active Page Link */
+  nav .active-page {
+    background-color: #fbd38d; /* Background color for active page link */
+    color: #2d3748; /* Text color for active page link */
+  }
+  
